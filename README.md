@@ -14,7 +14,6 @@ npm install
 ```  
 
 ### Setting up the database
-> Make sure to have postgres installed(postgresql 96 preferable) and the server is started
 
 ```bash
 psql
